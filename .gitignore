@@ -47,5 +47,6 @@ Temporary Items
 .apdisk
 
 .idea/*
-project/*
+project/project/*
+project/target/*
 target/*
